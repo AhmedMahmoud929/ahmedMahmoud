@@ -1,0 +1,9 @@
+--dark-bg : #160a2d;
+--light-bg : #211141;
+--grad-clr-left : #4937f0;
+--grad-clr-right : #9244f0;
+--grad2-clr-left : #eeb378;
+--grad2-clr-right : #b35ed3;
+--white : #ffffff;
+--purple-star : #a141f2;
+--orange-star : #f67f03;
