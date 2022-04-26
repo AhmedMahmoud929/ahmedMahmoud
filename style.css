@@ -1590,6 +1590,9 @@ footer .bottom {
 }
 
 @media (max-width:750px) {
+    .active-img-pop {
+        display: none;
+    }
     .div-img {
         width: 90% !important;
     }
